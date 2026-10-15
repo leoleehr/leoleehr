@@ -17,7 +17,7 @@ I turn people, data, and AI into better-fit organizational decisions.
 | [HRBP 戰情室](https://leoleehr.com/projects/hrbp-war-room/) | 平日 09:30 自動執行，串接五個資料來源，AI 判斷停在人之前 |
 | [HR 行政自動化平台](https://leoleehr.com/projects/hr-automail/) | 9 支通知信、3 級角色權限、寫入操作全數留稽核 |
 | [HR 戰情室（工作管理）](https://leoleehr.github.io/HR-WarRoom-Desktop/) | 記錄六年工時日誌的部門工作管理工具 |
-| [VOCAL LAB 聲樂實驗室](https://leoleehr.github.io/vocal_music/) | 跨領域技能轉移的教學工具 |
+| [Pixel Studio 畫素音樂工作室](https://pixel-studio.musicallanding.workers.dev/) | 十年音樂教學資料的互動式教學平台，含 VOCAL LAB 聲樂實驗室 |
 
 企業內部系統的原始碼屬前雇主所有，不公開；完整架構與決策過程寫在各案例頁。
 Source code for internal company systems stays private; each case study documents the architecture and decisions.
